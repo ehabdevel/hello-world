@@ -2,7 +2,8 @@
 
 Hi Humans,
 
-Ehab here, I'm Profissional in PHP, WordPress.
-and I like Javascript, Node.js, Angular, Java SE EE ADF, Ruby,... 
-I like IoT Arduino.
+<p>Ehab here, I like PHP, WordPress.</p>
+<p>Javascript, Node.js, Angular</p>
+<p>Java SE EE ADF, Ruby,...</p> 
+<p>I like IoT.</p>
 
